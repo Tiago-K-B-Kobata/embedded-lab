@@ -1,0 +1,4 @@
+gdb-multiarch firmware.elf
+
+qemu-system-arm   -M lm3s6965evb   -kernel firmware.elf   -S -gdb tcp::1234
+
