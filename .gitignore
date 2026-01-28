@@ -1,0 +1,13 @@
+# Build output
+Debug/
+Release/
+
+# Eclipse / CubeIDE junk
+.settings/
+.project
+.cproject
+.mxproject
+*.launch
+
+# Logs
+*.log
